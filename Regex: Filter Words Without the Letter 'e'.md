@@ -16,9 +16,6 @@ To write a Python program that filters out and returns all elements from a list 
 
 ## 🧾 Program
 ```
-DEVELOPED BY: JANARTHANAN K
-REGISTER NO: 212223040072
-
       import re 
       l1=[]
       items=['goal', 'new', 'user', 'sit', 'eat', 'dinner'] 
